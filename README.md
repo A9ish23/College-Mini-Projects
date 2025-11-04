@@ -32,4 +32,8 @@ It allows adding, viewing, deleting, saving, and visualizing student performance
 ---
 
 ## 📂 Project Structure
-
+StudentResultAnalyzer/
+│
+├── students.csv # Data file (auto-created on save)
+├── main.py # Main application code
+└── README.md # Project documentation
